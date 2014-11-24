@@ -8,4 +8,4 @@ message reminder (phone message email)
 
 like qq 
 
-![](https://github.com/lovemelovemydog/badgeCount/TestIconCountBadge/Screenshot.png)
+![](https://github.com/lovemelovemydog/badgeCount/blob/master/TestIconCountBadge/Screenshot.png)
